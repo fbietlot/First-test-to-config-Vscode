@@ -1,6 +1,6 @@
 import numpy as np
 
-msg = "roll a dice!"
+msg = "roll a dice! please"
 print(msg.capitalize())
 
 print(np.random.randint(1,9))
